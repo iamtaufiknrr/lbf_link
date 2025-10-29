@@ -11,7 +11,7 @@ function App() {
       description: 'Asisten AI berbasis web untuk konsultasi skincare dan produk kecantikan',
       url: 'https://bit.ly/lunaray_web_ai',
       qrImage: '/qr-lunaray-web.png',
-      characterImage: '/character-web-assistant.png',
+      characterImage: 'https://i.pinimg.com/1200x/a3/50/60/a35060add776a578d4062d549ee1fb68.jpg',
       gradient: 'from-[#68C8D7] to-[#225DA9]',
       glowColor: 'rgba(104, 200, 215, 0.4)'
     },
@@ -22,7 +22,7 @@ function App() {
       description: 'Konsultasi langsung melalui WhatsApp dengan AI assistant untuk rekomendasi personal',
       url: 'https://bit.ly/lunaray_whatsapp',
       qrImage: '/qr-lunaray-whatsapp.png',
-      characterImage: '/character-whatsapp-assistant.png',
+      characterImage: 'https://i.pinimg.com/736x/f5/b3/5e/f5b35e46462d9107b4a33d45aa034d6a.jpg',
       gradient: 'from-[#225DA9] to-[#253499]',
       glowColor: 'rgba(34, 93, 169, 0.4)'
     },
@@ -33,7 +33,7 @@ function App() {
       description: 'Eksplorasi konsep produk inovatif dari research hingga formulasi final',
       url: 'https://product-concept.lunaray.id/simulator',
       qrImage: '/qr-product-concept.png',
-      characterImage: '/character-product-concept.png',
+      characterImage: 'https://i.pinimg.com/736x/b7/a5/df/b7a5df801aac5eb96d903b934119dba2.jpg',
       gradient: 'from-[#253499] to-[#68C8D7]',
       glowColor: 'rgba(37, 52, 153, 0.4)'
     },
@@ -44,7 +44,7 @@ function App() {
       description: 'Platform konsultasi skincare dengan teknologi AI untuk analisis kulit',
       url: 'https://iamtaufiknrr-cantika-ft5j.bolt.host/',
       qrImage: '/qr-skinchat-web.png',
-      characterImage: '/character-skinchat-web.png',
+      characterImage: 'https://i.pinimg.com/736x/35/86/68/358668c9eba7b69ef93f593724381d56.jpg',
       gradient: 'from-[#68C8D7] via-[#225DA9] to-[#253499]',
       glowColor: 'rgba(104, 200, 215, 0.4)'
     },
@@ -55,7 +55,7 @@ function App() {
       description: 'Solusi cepat untuk masalah kulit Anda langsung via WhatsApp',
       url: 'https://wa.me/6285134892552?text=hai%20asisten%20digital%20pribadi%20kulitku%20cantik.ai',
       qrImage: '/qr-skinchat-whatsapp.png',
-      characterImage: '/character-skinchat-whatsapp.png',
+      characterImage: 'https://i.pinimg.com/736x/7a/99/8c/7a998c3365aca6d2b0bdb85a8378eb20.jpg',
       gradient: 'from-[#225DA9] to-[#68C8D7]',
       glowColor: 'rgba(34, 93, 169, 0.4)'
     }

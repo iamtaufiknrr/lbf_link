@@ -1,0 +1,90 @@
+lunaray website digital assistant : bit.ly/lunaray_web_ai
+lunaray whatsapp digital assistant : https://bit.ly/lunaray_whatsapp
+lunaray product concept : https://bit.ly/lbf_product_concept
+skinchat website : https://bit.ly/skinchats
+skinchat  Whatsapp : https://bit.ly/skinchat_whatsapp
+
+Create a futuristic AI holographic character avatar in a minimalist tech-luxury style.
+
+VISUAL STYLE:
+- Clean 3D render with holographic translucent effects
+- Glowing neon cyan (#68C8D7) and deep blue (#225DA9) color palette
+- Soft gradient lighting with tech glow effects
+- Minimalist geometric shapes and sleek modern design
+- Professional corporate sci-fi aesthetic (not anime/cartoon)
+- Semi-transparent with glowing edges and particles
+- Dark space background (#0B0E11) with subtle tech patterns
+
+CHARACTER DESIGN:
+- Abstract humanoid silhouette (elegant and professional)
+- No detailed facial features (keep mysterious and AI-like)
+- Flowing holographic elements suggesting movement
+- Tech ornaments: circuits, hexagons, molecular structures
+- Smooth gradients from cyan to blue
+- Ethereal and sophisticated appearance
+
+TECHNICAL SPECS:
+- Square format 1:1 ratio
+- High contrast against dark background
+- Centered composition
+- PNG-ready with clean edges
+- Professional product photography lighting
+
+CAMEREA CLOSE UP FACE (FRAME DARI DARA SAMPAI KEPALA ), CHARACTER MENGHADAP KE DEPAN 
+
+
+    {
+      id: 1,
+      title: 'Luna Website',
+      subtitle: 'Digital Assistant',
+      description: 'Asisten AI berbasis web untuk konsultasi skincare dan produk kecantikan',
+      url: 'https://bit.ly/lunaray_web_ai',
+      qrImage: '/qr-lunaray-web.png',
+      characterImage: 'https://i.pinimg.com/1200x/a3/50/60/a35060add776a578d4062d549ee1fb68.jpg',
+      gradient: 'from-[#68C8D7] to-[#225DA9]',
+      glowColor: 'rgba(104, 200, 215, 0.4)'
+    },
+    {
+      id: 2,
+      title: 'Luna WhatsApp',
+      subtitle: 'Digital Assistant',
+      description: 'Konsultasi langsung melalui WhatsApp dengan AI assistant untuk rekomendasi personal',
+      url: 'https://bit.ly/lunaray_whatsapp',
+      qrImage: '/qr-lunaray-whatsapp.png',
+      characterImage: '/character-whatsapp-assistant.png',
+      gradient: 'from-[#225DA9] to-[#253499]',
+      glowColor: 'rgba(34, 93, 169, 0.4)'
+    },
+    {
+      id: 3,
+      title: 'Luna Product',
+      subtitle: 'Concept Gallery',
+      description: 'Eksplorasi konsep produk inovatif dari research hingga formulasi final',
+      url: 'https://product-concept.lunaray.id/simulator',
+      qrImage: '/qr-product-concept.png',
+      characterImage: '/character-product-concept.png',
+      gradient: 'from-[#253499] to-[#68C8D7]',
+      glowColor: 'rgba(37, 52, 153, 0.4)'
+    },
+    {
+      id: 4,
+      title: 'SkinChat Website',
+      subtitle: 'Smart Consultation',
+      description: 'Platform konsultasi skincare dengan teknologi AI untuk analisis kulit',
+      url: 'https://iamtaufiknrr-cantika-ft5j.bolt.host/',
+      qrImage: '/qr-skinchat-web.png',
+      characterImage: '/character-skinchat-web.png',
+      gradient: 'from-[#68C8D7] via-[#225DA9] to-[#253499]',
+      glowColor: 'rgba(104, 200, 215, 0.4)'
+    },
+    {
+      id: 5,
+      title: 'SkinChat WhatsApp',
+      subtitle: 'Instant Care',
+      description: 'Solusi cepat untuk masalah kulit Anda langsung via WhatsApp',
+      url: 'https://wa.me/6285134892552?text=hai%20asisten%20digital%20pribadi%20kulitku%20cantik.ai',
+      qrImage: '/qr-skinchat-whatsapp.png',
+      characterImage: '/character-skinchat-whatsapp.png',
+      gradient: 'from-[#225DA9] to-[#68C8D7]',
+      glowColor: 'rgba(34, 93, 169, 0.4)'
+    }
